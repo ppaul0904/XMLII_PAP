@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Nombre: Paul Andres Peley El Kadi
+Curso: Asir1
+Fecha: 25/3/2025
+Ejercicio: Futbol
+-->
+<equipos>
+    <equipo>
+        <nombre>Real Madrid</nombre>
+        <ciudad>Madrid</ciudad>
+        <entrenador>Carleto Ancelotti</entrenador>
+        <jugadores>
+            <jugador posicion="Delantero">
+                <nombre>Kylian Mbappe</nombre>
+                <nacionalidad>Francia</nacionalidad>
+            </jugador>
+            <jugador posicion="Defensa">
+                <nombre>Daniel Carvajal</nombre>
+                <nacionalidad>España</nacionalidad>
+            </jugador>
+        </jugadores>
+    </equipo>
+    
+    <equipo>
+        <nombre>Atletico Nacional</nombre>
+        <ciudad>Medellin</ciudad>
+        <entrenador>Javier Gandolfi</entrenador>
+        <jugadores>
+            <jugador posicion="delantero">
+                <nombre>Edwin Cardona</nombre>
+                <nacionalidad>Colombia</nacionalidad>
+            </jugador>
+            <jugador posicion="Portero">
+                <nombre>David Ospina</nombre>
+                <nacionalidad>Colombia</nacionalidad>
+            </jugador>
+        </jugadores>
+    </equipo>
+</equipos>

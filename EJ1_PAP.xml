@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Nombre: Paul Andres Peley El Kadi
+Curso: Asir1
+Fecha: 25/3/2025
+Ejercicio: Marcadores
+-->
+<marcadores>
+    <marcador>
+    <empresa>W3Schools</empresa>
+    <info>Tutoriales de infórmatica</info>
+    <url>https://w3schools.org/</url>
+    </marcador>
+    <marcador>
+    <empresa>wikipedia</empresa>
+    <empresa>a enciclopedia libre</empresa>
+    <url>https://wikipedia.org/</url>
+    </marcador>
+    <marcador>
+    <empresa>W3C</empresa>
+    <info>World Wide Web Consortium</info>
+    <url>https://w3.org/</url>
+    </marcador>
+</marcadores>
